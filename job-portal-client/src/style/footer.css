@@ -1,0 +1,23 @@
+.footer-top {
+  background-color: rgb(18, 184, 170);
+  padding: 50px 0;
+  color: rgb(0, 183, 255);
+}
+
+.footer-top .right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-top input {
+  width: 100%;
+  padding: 20px;
+  border: none;
+  outline: none;
+  height: 30px;
+}
+.footer-top i {
+  padding: 12px;
+  color: #1eb2a6;
+  background-color: #fff;
+}
