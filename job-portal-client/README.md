@@ -1,4 +1,4 @@
-Live Link: https://job-portal-website-d80f9.web.app/
+Live Link: https://inquisitive-tulumba-ee0976.netlify.app
 
 
 
