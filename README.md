@@ -6,8 +6,6 @@ Technology:
 3. MongoDB
 4. Node.js
 
-Live Link: https://inquisitive-tulumba-ee0976.netlify.app
-
 
 
 
